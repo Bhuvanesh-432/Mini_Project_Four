@@ -69,7 +69,7 @@ bash
 Copy
 Edit
 # Step 1: Clone the repository
-git clone https://github.com/yourusername/swiggy-recommendation-app.git
+git clone https://github.com/Bhuvanesh-432/Mini_Project_Four.git
 cd swiggy-recommendation-app
 
 # Step 2: Install requirements
